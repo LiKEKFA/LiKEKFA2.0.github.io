@@ -30,6 +30,7 @@ export default defineNavbarConfig([
     items: [
       { text: '电脑基础', link: '/电脑基础/' },
       { text: '学学唱歌', link: '/学学唱歌/' },
+      { text: '工具资料', link: '/工具资料/' },
     ]
   },
 
@@ -38,6 +39,7 @@ export default defineNavbarConfig([
     icon: '',
     items:[
       { text: '资源网站', link: '/工具资料/资源网站.md' },
+      { text: '常用命令', link: '/工具资料/常用命令.md' }
     ]
   },
 

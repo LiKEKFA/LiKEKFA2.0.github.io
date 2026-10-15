@@ -39,6 +39,12 @@ export default defineThemeConfig({
   navbar,
   profile:{ },
 
+  autoFrontmatter: {
+    title: true, // 自动生成标题
+    createTime: true, // 自动生成创建时间
+    permalink: true, // 自动生成永久链接
+  },
+
   collections: [ 
     { type: 'post', 
       dir: 'blog', 
