@@ -5,7 +5,7 @@ full: true
 backgroundAttachment: 
 config:
   - type: banner
-    banner: /homeBackground/Pic8.jpg
+    banner: /homeBackground/Pic8.png
     bannerMask:
       light: 0
       dark: 0.3
