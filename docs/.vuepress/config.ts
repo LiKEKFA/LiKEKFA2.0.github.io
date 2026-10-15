@@ -14,7 +14,8 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base:'/LiKEKFA2.0.github.io/',
+  base:'/',
+  // base:'/LiKEKFA2.0.github.io/',
   lang: 'zh-CN',
   title: 'LiKEKFA Site',
   description: 'Website 2.0 is based on vuepress-theme-plume',
