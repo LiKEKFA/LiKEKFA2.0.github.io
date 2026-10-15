@@ -9,11 +9,20 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 export default defineNavbarConfig([
   { text: '首页', link: '/', icon: "BXS：Home-Alt-2" },
   { text: '博客', link: '/blog/' },
+  { text: '工具资料', icon: '', link: '/工具资料/' },
+  
+  // {
+  //   text: '笔记',
+  //   items: [
+  //     { text: '示例', link: '/demo/README.md' }
+  //   ]
+  // },
 
   {
-    text: '笔记',
+    text: '我的知识',
     items: [
-      { text: '示例', link: '/demo/README.md' }
+      { text: '电脑基础', link: '/电脑基础/' },
+      { text: '学学唱歌', link: '/学学唱歌/' },
     ]
   },
 
@@ -22,24 +31,6 @@ export default defineNavbarConfig([
     items: [
       { text: '标签', link: '/blog/tags/' },
       { text: '归档', link: '/blog/archives/' }
-    ]
-  },
-
-  {
-    text: '我的知识',
-    items: [
-      { text: '电脑基础', link: '/电脑基础/' },
-      { text: '学学唱歌', link: '/学学唱歌/' },
-      { text: '工具资料', link: '/工具资料/' },
-    ]
-  },
-
-  {
-    text: '更多',
-    icon: '',
-    items:[
-      { text: '资源网站', link: '/工具资料/资源网站.md' },
-      { text: '常用命令', link: '/工具资料/常用命令.md' }
     ]
   },
 

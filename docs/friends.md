@@ -23,5 +23,14 @@ list:
     socials:
       - icon: bilibili
         link: https://space.bilibili.com/1677645380?spm_id_from=333.337.0.0
+  - name: Gerose
+    link: https://space.bilibili.com/104349873?spm_id_from=333.337.0.0
+    avatar: /friendsIcon/Gerose.jpg
+    location: 广元，中国
+    organization: 个人
+    desc: 我能否紧紧抱着你，与你在彼此的中点相遇
+    socials:
+      - icon: bilibili
+        link: https://space.bilibili.com/104349873?spm_id_from=333.337.0.0
 createTime: 2026/10/14 18:21:19
 ---
