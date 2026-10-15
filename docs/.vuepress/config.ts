@@ -21,7 +21,7 @@ export default defineUserConfig({
   description: 'Website 2.0 is based on vuepress-theme-plume',
 
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: 'xsphoto2.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '捏嘴巴透明α.png' }],
   ],
 
   bundler: viteBundler(),
