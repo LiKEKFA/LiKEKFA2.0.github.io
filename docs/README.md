@@ -5,12 +5,12 @@ full: true
 backgroundAttachment: 
 config:
   - type: banner
-    banner: /homeBackground/Pic6.jpg
+    banner: /homeBackground/Pic8.jpg
     bannerMask:
       light: 0
       dark: 0.3
     hero:
-      name: 别怕，向前看
+      name: 海风，在等你
       tagline: 憎めないよ,優しいから,君は誰の為にも願う人
       text: 闻说双溪春尚好，也拟泛轻舟。只恐双溪舴艋舟，载不动许多愁。
       actions:
